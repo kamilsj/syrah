@@ -1,0 +1,11 @@
+certifi>2018.4.16
+numpy>1.14.5
+dropbox>9.0.0
+scipy>1.1.0
+PyMySQL>0.9.2
+setuptools>40.0.0
+validators>0.12.2
+tqdm>4.23.4
+requests>2.19.1
+termcolor>1.1.0
+beautifulsoup4>4.6.0

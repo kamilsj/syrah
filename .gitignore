@@ -1,0 +1,6 @@
+access.py
+.idea/
+__pycache__
+build
+dist
+syrahsearch.egg-info
